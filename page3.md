@@ -2,7 +2,5 @@
 
 ### Some of the application have a long form so leave some time to apply! 
 
-![image](https://pixabay.com/photos/hammer-books-law-court-lawyer-719066/)
-
-
+![image](Screen Shot 2020-11-20 at 7.20.00 PM.png)
 
