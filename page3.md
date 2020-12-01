@@ -5,10 +5,5 @@
 
 
 <img src="Screen Shot 2020-11-20 at 7.20.00 PM.png"
-     alt="picture" id="firstpic">
+     alt="picture" width="150" height="100">
      
-#firstpic{
-
-     size: 20px;
-}
-
