@@ -5,9 +5,9 @@
 
 
 <img src="Screen Shot 2020-11-20 at 7.20.00 PM.png"
-     alt="picture">
+     alt="picture" id="firstpic">
      
-.picture{
+#firstpic{
 
      size: 20px;
 }
